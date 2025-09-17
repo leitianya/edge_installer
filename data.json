@@ -104,19 +104,19 @@
         "version": "142.0.3561.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_142.0.3561.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d3d6dce-99a6-4fb0-919b-b49c86ccf6f2?P1=1758677965&P2=404&P3=2&P4=DjBB1YNGQRKz2NSMOR%2bW3uhQBcMB2lvVhCUb1iOtUpgu4kDlKKgwr3Mk8fv9uclkWQUEmcFZfjSvHn0Wjfqh0A%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 184936528,
-        "Sha1": "qnYCbNBkFAnjxZqtnTQiTdjJEmQ=",
-        "Sha256": "114093e3175945d553b0741cd003849f44bb28e2d4d93a2bb52e5656bc552290",
-        "version": "142.0.3561.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_142.0.3562.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f2890d9-0c93-4281-ad03-bfacf5eaff2f?P1=1758720544&P2=404&P3=2&P4=eJDw1Di4r8CQn3FR4zqJecvASRWGDCNF0qB%2bJAh%2fzpmC89R7zqJ8pnMEphSTGNdOc9g3jNcs6DBIPfilYTvAJw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 184951888,
+        "Sha1": "0Zx1VM6PHokxigdRW7k8QggDHlE=",
+        "Sha256": "ef93acd1e0ba7920bfe8ab7adc2ccc072b3e4dda606cd7e95c9404a6b6603276",
+        "version": "142.0.3562.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_142.0.3561.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eaffc792-ecfc-4408-b165-32299af7e1cb?P1=1758677966&P2=404&P3=2&P4=Nw4okxvAYK3zRsfkvTGfpumplYcVP9MJRJ1pYYDKAXP9wThXJuFbbMd60oY1ZVJIvOE38bcfIv2cbxBnsbgTow%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 189584976,
-        "Sha1": "qFq+GwAAb3HpCx7KWX+EWpe+lAg=",
-        "Sha256": "f39fbd327503ee5d0decc17cb709edd7d446027d7090b9c8ccf0356d3bdddad3",
-        "version": "142.0.3561.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_142.0.3562.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b2c7d6f-c162-4421-acd2-4ca84104e099?P1=1758720544&P2=404&P3=2&P4=Ig7i38%2b42yxXM76QihYVO6FFiHPeqLWfFnT3BZwzBKSSlbhhA9WlJ0j%2fmpH8dz%2fcx3XpHQbnsWR127N7rra%2bAg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 189609040,
+        "Sha1": "/c3Uis1CvfGAfjYyGIa6264KfzE=",
+        "Sha256": "de22cf72590fadbcf0cce602d5cecad9139e609117c0e192a5c0c37536ce4ad2",
+        "version": "142.0.3562.0"
     }
 }
