@@ -1,7 +1,7 @@
 {
     "msedge-stable-win-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_143.0.3650.75.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/67500815-014d-4659-babc-0acd880ad8be?P1=1766067911&P2=404&P3=2&P4=gJOxb6cMG2pvcR7SPk2a7V2N31EYw%2bPTEFe3KvSb0THjIlXrk%2fq46dPAYVQ%2f26FfVkW6%2f8kPox3JXKzHSNoFmA%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/67500815-014d-4659-babc-0acd880ad8be?P1=1766071732&P2=404&P3=2&P4=MxL0CfKTAJrs09vuED5%2fFRURqUYJUtdQrysMw4T9TVh7IXe494eJ9bw2xdMLim%2f3IYte1axRUMxdIo9hxkScxQ%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 166440032,
         "Sha1": "iHM1c4Wqpf1RraqWF0bm8NnWM44=",
         "Sha256": "099393024fc3e78d9a8e205e4abe9bb34a94b4f3f23c663d7a99018eb079c12d",
@@ -9,7 +9,7 @@
     },
     "msedge-stable-win-x64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_143.0.3650.75.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fd0dde21-68de-4cdb-a6c1-ce58aea78f20?P1=1766067911&P2=404&P3=2&P4=OEGrVzlTSpiqaRZrkqd4lvhyOnMIcyrnJIVoY7w9k3Dgh2ZUdqNniY%2fR58ql21SeMXI3%2fc6RDzd8bgwKmjdM0g%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fd0dde21-68de-4cdb-a6c1-ce58aea78f20?P1=1766071732&P2=404&P3=2&P4=HaVrpudCDfAwjh9cvz7EI7nrx5G1drEhfkvUVMYojYP%2fAVYFaFkuzuU5wtnkULx5y2u2OyQm5dDjwUvUFJRknw%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 186903136,
         "Sha1": "Z+4F24FNX4dJ30ylfjXM9+EvRFQ=",
         "Sha256": "2724762b7c091ba12bf59e4886e154e88dc0331984f2c672d5c2375d0d3b7b66",
@@ -17,7 +17,7 @@
     },
     "msedge-stable-win-ARM64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_143.0.3650.75.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a3e137a7-cc03-47b3-8aa0-a76744c0613e?P1=1766067911&P2=404&P3=2&P4=moNTB1%2bXjVAi5tUjDCjPqqHOL8bmz4YEhdO%2fG3PCoDo9%2fAabIcRFlhQbj8hSjB8OOE%2bEW6XonElvkrFZu4HSiw%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a3e137a7-cc03-47b3-8aa0-a76744c0613e?P1=1766071733&P2=404&P3=2&P4=jZcW%2bpnbMFElPkslUfsqoAyLYce7INhiCAo86wPD4FOlB4EjccXkCmvflmIx%2fD6xURB6N%2bzwRkO5uZElV3lMJg%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 191933536,
         "Sha1": "4SVHLVQB7rcNLYHKrcRCOJcnQu4=",
         "Sha256": "a580a9c12aa6b40510d05d1b78f77162709fa2999c0b40b2e357a5b77015375e",
@@ -25,7 +25,7 @@
     },
     "msedge-stable-win7and8-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_109.0.1518.140.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1766067912&P2=404&P3=2&P4=bYPmY99wKvBfwBcfKJoy0Aj30sJ5MD2WAiMTb3HIrw4%2boZYhT82In5WRtyd7LZaOpXl1Y9KlLxbOgu%2b%2b%2fqjU%2bA%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1766071733&P2=404&P3=2&P4=DgQ3x%2fMypn1Yl6z5eeoBaM1xzEaMHkirwiRZC94TlMNltePhp%2boMej8PANJCSn%2f410L%2bmpYBSXDA%2f7X3zO8XSQ%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 128512968,
         "Sha1": "TzGshrNvfT5B7bCaZaS/OYA8rro=",
         "Sha256": "2b48ce3b304b7b9a8f9377a42d8661ecdc53c5f2c6ee708da9d62127c7802c18",
@@ -33,7 +33,7 @@
     },
     "msedge-stable-win7and8-x64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_109.0.1518.140.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1766067912&P2=404&P3=2&P4=MA7wtlGFGppkvGbXCNMTvFMr7%2fwWHFZ2M2tG5N%2ffSfI8JsUTPOwsWd7ae5If8KG4knl0XvB5Us19crp4Tf3tlg%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1766071734&P2=404&P3=2&P4=fAktwQMfZgUqgr4snbJR3EwM2ers9HvNNfgJDm%2f9%2faZd4Xs%2bPnzCylpc73KF13t0gefdbR2p2u3zkcNJhqedJg%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 140696008,
         "Sha1": "ZAErwtGciZxGa0c/GYSACHDsL9o=",
         "Sha256": "70d496873a0a1ca14ae0a038d25856b2121b1b4b7bad9801ce639b144bac41f8",
@@ -41,7 +41,7 @@
     },
     "msedge-stable-win7and8-ARM64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_109.0.1518.140.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1766067912&P2=404&P3=2&P4=ReYPuG5yJQi18sIlOflZ69Uzb2jHl98AfncU7a1DDH1KNzIqK%2bWVdCzVHvDthsAaoudOys5uJQQjee78XWardw%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1766071734&P2=404&P3=2&P4=S22fZ876fjiwu%2fq6eHFbQFh7TX6FQfmM8bvWC%2b7UOY%2bV1yi0bDx4aIhHzljsuQ5Ru00kWLT2kxDl%2bX4eUbToGg%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 138498616,
         "Sha1": "7MODObKWCcJNgJHj75dHDyYxr7E=",
         "Sha256": "5de04fdc41cdbac64cecc86a3fd24ddba1520c6b7e04dbd1bfd9d3a6ec7bb971",
@@ -49,7 +49,7 @@
     },
     "msedge-beta-win-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_143.0.3650.66.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/822b4cf6-ac24-4b08-96a7-0cf293719987?P1=1766067913&P2=404&P3=2&P4=BMOR2%2bStZ9uCojmOYM9wc3CbiO4dSyabyYlCMdWsRyy8i9SEdufiETri6GZ%2fHzT1PjJFcUXTyYilwJryN6uNJw%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/822b4cf6-ac24-4b08-96a7-0cf293719987?P1=1766071735&P2=404&P3=2&P4=ZuQQ5SZKoA4CSdKWwTfXYykZMOf4qAlPdTHgPnBcnslDHNiaPPTMt19j599q%2bVaFsLx52yjWM%2bgF7HYHruDh2g%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 166440504,
         "Sha1": "EjLjWXhX3KVpEvbEp27jXSp23YU=",
         "Sha256": "a06b9ef69088ced7b29a0b06a6c93867b5a8a5acf080f5d736acfba8a612a660",
@@ -57,7 +57,7 @@
     },
     "msedge-beta-win-x64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_143.0.3650.66.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9724e5c3-5ae3-445c-bb4f-f6ce9f9e4f61?P1=1766067913&P2=404&P3=2&P4=cY11QSU0bOhWBWKOefoVyR4feR1Zs4pl57gDGYVs7DOaPsCxr788lBXZvdNiDoqFWc1avTCND5zLNzPxWlH%2b8w%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9724e5c3-5ae3-445c-bb4f-f6ce9f9e4f61?P1=1766071735&P2=404&P3=2&P4=A6u2dwxogYq9FmsHWqsOIEEycTlD%2fJAZoPp2WpBRtnUbDBdZ8XBn6Rpc6eULFIgC40V2IkJZ0%2b4y8BWlCk8Chw%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 186896440,
         "Sha1": "9QZWkFpY/fAUmoMYb9+ufjLsIyo=",
         "Sha256": "7737c215931bd978de4af26a1d49fc92c9b7640601f90af9984578e46df62ddc",
@@ -65,7 +65,7 @@
     },
     "msedge-beta-win-ARM64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_143.0.3650.66.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ea84425-cc3d-45dc-a2c8-76ded8315f1f?P1=1766067913&P2=404&P3=2&P4=Ay%2bbloEt6G72ZsyQEq4ZsU%2bVJ2vz85JKBeCcSBTluwV8Zup15EJBAE0yVQGXfix2VOvBg0lqgaVuf5N9oTNDyA%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ea84425-cc3d-45dc-a2c8-76ded8315f1f?P1=1766071735&P2=404&P3=2&P4=E1gnJlHCGvFbJVmt3mHQ7vKlp4niXSS%2fq5KDS%2fHAOpQbHVaCGLi5CUSRUIQ2VghB5XiwyhMSFcBHGBnV0YizLg%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 191962208,
         "Sha1": "GGyKyJklUtR/q3aqc56wNmyo76c=",
         "Sha256": "8056de65917aca41d0b2f0d4107d67a8befd870bd191d335d2b44a9968ad427a",
@@ -73,7 +73,7 @@
     },
     "msedge-dev-win-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_144.0.3719.7.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a2fb050-a58f-4a1e-97cd-fae0aaf34477?P1=1766067914&P2=404&P3=2&P4=QYhbsbg8%2ba5FATds0BkePWP%2fGaXWydCCTrAYrea0EaWGySzRr9ZwVqMuEnGaB7bMdzyAqPJqM3vBp6lHB3ZUVA%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a2fb050-a58f-4a1e-97cd-fae0aaf34477?P1=1766071736&P2=404&P3=2&P4=ebzVuSbyrnrL5xrjMq4j0ugsXoaCLGrWtA2nTnzYRVEerw18XgQWnKO1OuGcousKkmsM%2fbqkIFeLYUF83hDOIw%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 163364448,
         "Sha1": "FsM3fcWhLVTW5mA1kb77yKKq33s=",
         "Sha256": "7859473e4aa0163004b98e8b7c386b02604c25f27a1e2277c059b69199e99c79",
@@ -81,7 +81,7 @@
     },
     "msedge-dev-win-x64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_144.0.3719.7.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b88ababc-d33d-4a88-92a4-bca0c43b6412?P1=1766067914&P2=404&P3=2&P4=kwPkY0D73XQ6du7sjG3jeEGqbTgNL%2fk%2bPW%2bPYwD3%2b%2fIAOS3fCZRPhaqgRlFESwoHlir6bJk7nKWuo0bq2YIzUg%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b88ababc-d33d-4a88-92a4-bca0c43b6412?P1=1766071736&P2=404&P3=2&P4=OEq2jO1f87v3riFYZyJqpiYK%2bm9EWpOnldcqVTurIaGFRbJH69KaMRZw4ckFr4dbfwfqSMmpGPyrJrpoiZe%2ffQ%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 184066656,
         "Sha1": "N5VRnai1Dy9ZdcdGXfTJka9eJUk=",
         "Sha256": "c1fbf7691d9fd0dee77daef188b7bef6fff82609e0581f125f0d7e4b31a1244d",
@@ -89,34 +89,34 @@
     },
     "msedge-dev-win-ARM64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_144.0.3705.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ffc3e4e-3f66-4bd2-b8a6-69182f3a0826?P1=1766067915&P2=404&P3=2&P4=EDNiB7GmLvzNy6zZYBklal93G97BJyfIfbLPHbseIbH2KFQ0T%2f3BcsTUQW31xUaDqfJGuehI11By4HQP%2bg2%2fXQ%3d%3d",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ffc3e4e-3f66-4bd2-b8a6-69182f3a0826?P1=1766071737&P2=404&P3=2&P4=Ha6UdQA3jYsR%2bpwttjpZiDvtqqaeHDPjL2m4H39QWETbbW2aqyTgBh1Iruybe2rycQ4kwWbQ7zoRIjp9d5Cofg%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 189198392,
         "Sha1": "eiQ1qTSAtsVMiNQTsB1Xz4eK1Fc=",
         "Sha256": "6ff42a818c54ae41e127c50645a1a38494af6a26351b509682be071b25f2279d",
         "version": "144.0.3705.0"
     },
     "msedge-canary-win-x86": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_145.0.3730.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7d859c51-1e4d-4a29-8da4-38ae85872c89?P1=1766067915&P2=404&P3=2&P4=D%2bokkq5KCJVlP0PmpHniKJsvCMh0Bv3Gsa8324MM3NHzUZdjpSth9avEZYJ%2f3UsOQDoSRxPJIKPxRTrqEuwQFA%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 163587160,
-        "Sha1": "o41QRtPXoR8VXtngfL8byNl/wyQ=",
-        "Sha256": "a655c8417062aaa8e24621286ce1fe4ec8df29b2c3a6c4b75d5b99053a2faa4b",
-        "version": "145.0.3730.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_145.0.3731.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/95e434b3-cae3-41f8-8f15-880ad66c34d7?P1=1766071738&P2=404&P3=2&P4=Mddf9SldaTFpCtZdy75JCmJNu%2bGh7Zimk9wOttzpZvThSVKiVYkJ0CpMhvnaseTFKfGr2EKsMuB5h0WHFR9qwg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 164478048,
+        "Sha1": "WwjB5w1b1E7mOz8xgD3OnzdBhRs=",
+        "Sha256": "58f3e8fd370e62bc93a4927504beb340bb70eb470731bf8ecc9596bcc4e08a42",
+        "version": "145.0.3731.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_145.0.3730.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0291fffd-71a2-4b92-8f31-a080cd6b306b?P1=1766067915&P2=404&P3=2&P4=JRllfAcyOomr3Ssq3eIpRreSIXEBt7ExoyEDmfpQp%2ba0Ozo0NyisTCrv9h55C8RADVENTawJqCQ6O74r%2fSMpKw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 184448608,
-        "Sha1": "8tyJlKaPB4cLzaheEAXlu/XIgAk=",
-        "Sha256": "bf1403d3a52f953fce7fedb9cedc7337d1509df6d42c66493ce35cf6ac6ff862",
-        "version": "145.0.3730.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_145.0.3731.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91a5ca79-3a89-4a6f-b6f8-f320318e65f2?P1=1766071738&P2=404&P3=2&P4=L0hNFUDhISbpgIQ7UJLJZIPP3%2fQBImdku96MMGZ8M6jz5ZITYm3mDHeik8BWGr53ZkInFmikzgU0xzJwP1GxvQ%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 184412768,
+        "Sha1": "sOEpobRbb1FlcPQrVndwU/jNLlo=",
+        "Sha256": "604a1af10b2cc83e9ca6abf6447c7037667658171cd6a65f85a3f5c16f0b273e",
+        "version": "145.0.3731.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_145.0.3730.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d5503c97-467f-413d-a288-d996f7f66834?P1=1766067916&P2=404&P3=2&P4=CIWVpSTWXsrTqGc3YXq2yKjbUBY2%2fAhcOdlxsnJYjCYLN97PgK7n9nWm8SiBZSpcMaLde0kOfrLmrQdmI%2fOMEQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 189926496,
-        "Sha1": "l9+dsLxbRKkSZhAJX6OSFr/Hpsk=",
-        "Sha256": "7cfd6f0b62030ace833797717a0eebae9db1b4de7a580baf165d0d0732e3ddf5",
-        "version": "145.0.3730.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_145.0.3731.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7f139f1-c370-4397-a46b-159a2bc62c2c?P1=1766071738&P2=404&P3=2&P4=hdf9xpA5RqN5vHIaw%2bOFc87kvjnx93Io6XsRNPrUHN6bBeU6ULR2dDgYOE4OXtI2gTdef1Nm1t%2fzFnH4qqPGzw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 189881952,
+        "Sha1": "EGKtMnBlYNyeTIURbwrtb3/w3yQ=",
+        "Sha256": "21424f13f9d3686ea9b0c6d8bd4fce791fc1c4a8d15d1b5af5ad4ce864e9611a",
+        "version": "145.0.3731.0"
     }
 }
